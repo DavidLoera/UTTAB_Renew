@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UTTAB Bazar</string>
+
+    <string name="all">TODO</string>
+    <string name="name">Objeto de prueba</string>
+    <string name="date">Área Tecnología de la información</string>
+    <string name="title_activity_main">UTTAB Bazar</string>
+    <string name="subtitle_activity_main">Buscando oportunidades</string>
+    <string name="title_activity_add">Nuevo artículo</string>
+    <string name="title_activity_edit">Datos del artículo</string>
+    <string name="name_form">Nombre del artículo</string>
+    <string name="date_form">Área</string>
+    <string name="url_form">Url imagen</string>
+    <string name="description_form">Descripción</string>
+    <string name="save">Guardar</string>
+    <string name="description">Final Fantasy es una franquicia de medios creada por Hironobu Sakaguchi y desarrollada por Square Enix. La franquicia se centra en una serie de fantasía y ciencia ficción de videojuegos RPG.</string>
+</resources>

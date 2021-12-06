@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1034072920908",
+    "firebase_url": "https://uttab-bazar-default-rtdb.firebaseio.com",
+    "project_id": "uttab-bazar",
+    "storage_bucket": "uttab-bazar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034072920908:android:94c5795e0c1b55415d75e9",
+        "android_client_info": {
+          "package_name": "com.example.firebasekotlincrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034072920908-gjdt45s0jcmra0ldrp47icc2o95ldvbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGkN6FlS4XqQIqKhwGsr2YGVIDJ6v_7Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034072920908-gjdt45s0jcmra0ldrp47icc2o95ldvbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034072920908:android:cdc02437787926215d75e9",
+        "android_client_info": {
+          "package_name": "com.uttab.uttabbaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034072920908-gjdt45s0jcmra0ldrp47icc2o95ldvbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGkN6FlS4XqQIqKhwGsr2YGVIDJ6v_7Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034072920908-gjdt45s0jcmra0ldrp47icc2o95ldvbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
